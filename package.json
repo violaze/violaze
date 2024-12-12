@@ -1,0 +1,11 @@
+{
+  "name": "violaze",
+  "version": "0.0.0",
+  "description": "WIP",
+  "main": "index.js",
+  "author": "Sachio Takamagari",
+  "repository": {
+    "url": "https://github.com/violaze/violaze"
+  },
+  "license": "MIT"
+}
